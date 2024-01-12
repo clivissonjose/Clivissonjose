@@ -3,7 +3,8 @@
 ## intro
 
 - I'm focused in becoming a FrontEnd developer
-- i started in the university in 2022
-- i know the basic of 
-  JavaScript, HTML/CSS
+- I am a computer science student since november of 2022.
+- I have good knowledge in JavaScript, HTML/CSS.
+  JavaScript, HTML/CSS.
+- In the university i already learned the basic of C  and Python.
 
