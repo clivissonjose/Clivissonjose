@@ -23,7 +23,7 @@ I'm passionate about technology, I'm studying the 4th period of the Bachelor's d
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SEUUSERNAME">
+  <a href="https://github.com/clivissonjose">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
