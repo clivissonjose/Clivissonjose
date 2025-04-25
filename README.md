@@ -4,7 +4,7 @@
 
 ### pt
 
-Sou apaixonado por tecnologia, estou cursando o 4º periodo do curso de Bachalerado em Ciência da Computacão na UFAPE. Tenho conhecimento básico sobre desenvolvimento front-End com JavaScript, HTML5 e CSS3, Mas atualmente estou me aprofundando no desenvolvimento Back-End com Java. Na universidade já tive experiência com python e C.
+Sou apaixonado por tecnologia, estou cursando o 6º periodo do curso de Bachalerado em Ciência da Computacão na UFAPE. Tenho conhecimento básico sobre desenvolvimento front-End com JavaScript, HTML5 e CSS3, mas atualmente estou me aprofundando no desenvolvimento Back-End com NodeJS. Na universidade já tive experiência com python e C.
 
 ### en 
 
