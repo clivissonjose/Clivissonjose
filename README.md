@@ -4,11 +4,11 @@
 
 ### pt
 
-Sou apaixonado por tecnologia, estou cursando o 6º periodo do curso de Bachalerado em Ciência da Computacão na UFAPE. Tenho conhecimento básico sobre desenvolvimento front-End com JavaScript, HTML5 e CSS3, mas atualmente estou me aprofundando no desenvolvimento Back-End com NodeJS. Na universidade já tive experiência com python e C.
+Sou apaixonado por tecnologia, estou cursando o 6º periodo do curso de Bachalerado em Ciência da Computacão na UFAPE. Tenho conhecimento básico sobre desenvolvimento front-End com JavaScript, HTML5 e CSS3, mas atualmente estou me aprofundando no desenvolvimento Back-End com Node.JS. Na universidade já tive experiência com python e C.
 
 ### en 
 
-I'm passionate about technology, I'm studying the 4th period of the Bachelor's degree in Computer Science at UFAPE. I have basic knowledge about front-end development with JavaScript, HTML5 and CSS3, but I am currently delving deeper into back-end development with Java. At university I already had experience with Python and C.
+I'm passionate about technology, I'm studying the 6th period of the Bachelor's degree in Computer Science at UFAPE. I have basic knowledge about front-end development with JavaScript, HTML5 and CSS3, but I am currently delving deeper into back-end development with Node.JS. At university i already had experience with Python and C.
 ## Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%ADvisson-barbosa-93875524a/)
 
